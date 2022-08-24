@@ -1,5 +1,4 @@
-# hello-world
+# Hey-Tech
+My repos!
 
-My first repo on GitHub
-
-I love :coffee: :pizza:, and :basketball:.
+I love to eat :pizza: :bread:, and :candy:.
